@@ -37,6 +37,6 @@ The analysis is supported by rich **data visualizations** (histograms, heatmaps,
 ## 📄 Deliverables
 - Jupyter Notebook (`Titanic_dataset.ipynb`)  
 - PDF Report (`TitanicDataset_summary.pdf`)  
-- Visual Charts (`Output_visualisations file- PNG format`)
+- Visual Charts (`Output.PNG`)
 - README Documentation
 - Raw data (`Titanic_dataset.csv`)
